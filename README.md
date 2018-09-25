@@ -1,14 +1,11 @@
 # Resend Confirmation Mail #
-Classification: Open Source Project (FOSS)
 
-Resend Confirmation Mail, by Apantic
+This add-on allows you to resend the confirmation email from the Admin CP for a user that has not confirmed their email yet. The benefits of this is to bring back members who didn't confirm their account, or the email didn't go through due to technical reasons, and you doing the hard work for them.
 
-**Apantic Products:** https://www.apantic.com/community/products/resend-confirmation-mail.7/  
-**Apantic Community:** https://www.apantic.com/community/forums/resend-confirmation-mail.14/  
-**XenForo Community:** https://xenforo.com/community/resources/resend-activation-mail.4311/  
+Also see: https://xenforo.com/community/resources/n-resend-activation-mail.4311
 
-## Legal Stuff
-   Copyright 2016, Apantic Limited
+## License
+   Copyright Apantic Limited
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
